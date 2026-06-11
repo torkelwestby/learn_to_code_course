@@ -1,0 +1,24 @@
+# Avhengigheter
+node_modules/
+
+# Miljøvariabler / hemmeligheter (skal ALDRI til GitHub)
+.env
+.env.local
+.env*.local
+
+# Claude Code – personlige, lokale innstillinger (deles ikke)
+.claude/settings.local.json
+
+# Byggeutdata
+.next/
+dist/
+build/
+out/
+
+# OS-rot
+.DS_Store
+Thumbs.db
+
+# Logger
+*.log
+npm-debug.log*
