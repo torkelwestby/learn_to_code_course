@@ -22,3 +22,7 @@ Thumbs.db
 # Logger
 *.log
 npm-debug.log*
+
+# Kursmateriell (PPT lages til kurset, hører ikke hjemme i git)
+*.pptx
+*.ppt
